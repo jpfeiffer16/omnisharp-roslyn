@@ -42,6 +42,7 @@ namespace OmniSharp
         public const string Open = "/open";
         public const string Close = "/close";
         public const string Diagnostics = "/diagnostics";
+        public const string GetFullType = "/getfulltype";
 
         public static class V2
         {
